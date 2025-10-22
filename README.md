@@ -1,12 +1,19 @@
 # Getting Started with React UI Components using Next.js
 
-This application demonstrates the usage of the Syncfusion React Pivot Table component in Next.js.
+This sample application demonstrates how to integrate and use the Syncfusion React Pivot Table component within a Next.js framework. Syncfusion provides a rich set of UI components that are highly customizable and optimized for performance. The Pivot Table component allows users to organize and summarize complex data sets interactively.
 
-To know how to configure the Syncfusion React Pivot Table component in Next.js, refer to the [documentation](https://ej2.syncfusion.com/react/documentation/pivotview/nextjs-getting-started).
+To learn more about configuring the Syncfusion React Pivot Table in a Next.js, refer to the [documentation](https://ej2.syncfusion.com/react/documentation/pivotview/nextjs-getting-started).
+
+## Prerequisites
+
+Before running the sample, ensure you have the following installed:
+
+* Node.js (v14 or later)
+* npm or yarn
 
 ## Clone the repository
 
-* To clone the sample repository locally, open the command prompt in the desired location and execute the following command.
+* To clone this sample repository locally, open your terminal and run:
 
 ```sh
 
@@ -20,9 +27,9 @@ git clone https://github.com/SyncfusionExamples/ej2-nextjs-pivotview.git
 cd ej2-nextjs-pivotview
 ```
 
-## Installing Packages
+## Install Dependencies
 
-Install the required node modules by running the following command:
+Install the required packages using below command:
 
 ```sh
 npm install
@@ -35,3 +42,5 @@ To run the application, use the following command:
 ```bash
 npm run dev
 ```
+
+The app will be available at http://localhost:3000
