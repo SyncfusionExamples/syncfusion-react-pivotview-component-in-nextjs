@@ -1,8 +1,9 @@
 # 📊 Getting Started — React Pivot Table Component (Syncfusion EJ2) + Next.js
 
 [![License](https://img.shields.io/badge/license-SEE%20LICENSE%20IN%20license-blue.svg)](https://www.syncfusion.com/content/downloads/syncfusion_license.pdf)
-[![Nextjs](https://img.shields.io/badge/Nextjs-16.1.16-blue.svg)](https://nextjs.org/)
-[![Syncfusion Version](https://img.shields.io/badge/Syncfusion%20EJ2-32.1.19-green.svg)](https://www.syncfusion.com/react-components/)
+[![Nextjs](https://img.shields.io/badge/Nextjs-16.1.6-blue.svg)](https://nextjs.org/)
+[![Last Updated](https://img.shields.io/github/last-commit/SyncfusionExamples/syncfusion-react-pivotview-component-in-nextjs.svg)](https://github.com/SyncfusionExamples/syncfusion-react-pivotview-component-in-nextjs/commits)
+[![Syncfusion Version](https://img.shields.io/badge/Syncfusion%20EJ2-LTS-green.svg)](https://www.syncfusion.com/react-components/)
 [![Node.js](https://img.shields.io/badge/Node.js-LTS-green.svg)](https://nodejs.org/)
 [![npm](https://img.shields.io/badge/npm-v10%2B-blue.svg)](https://www.npmjs.com/)
 
